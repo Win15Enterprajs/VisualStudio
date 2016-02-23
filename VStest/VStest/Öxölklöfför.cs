@@ -10,6 +10,7 @@ namespace VStest
     {
         public void axelklaffar()
         {
+            Console.WriteLine("Please enter a word or sentence: ");
             var vokaler = new char[] { 'a', 'o', 'u', 'å', 'e', 'i', 'y', 'ä', 'ö' };
             string test = Console.ReadLine();
             foreach (char c in vokaler)
