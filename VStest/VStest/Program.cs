@@ -13,6 +13,7 @@ namespace VStest
             // first line of code added
             Console.WriteLine("Initial code added here");
             UI ui = new UI();
+            ui.JanStenmark();
             ui.MakeItSnow();
         }
     }

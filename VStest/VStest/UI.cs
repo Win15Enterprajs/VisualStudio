@@ -8,6 +8,11 @@ namespace VStest
 {
     class UI
     {
+        public void JanStenmark()
+        {
+            Öxölklöfför Jan = new Öxölklöfför();
+            Jan.axelklaffar();
+        }
         public void MakeItSnow()
         {
             Board SnowBoard = new Board();
