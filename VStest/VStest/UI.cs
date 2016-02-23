@@ -35,6 +35,7 @@ namespace VStest
         {
             do
             {
+                Console.Clear();
                 Console.WriteLine("What do you want to do?");
                 Console.WriteLine("1. Make it snow." + "\r\n2. Jan Stenmark Generator." + "\r\n3. {placeholder}" + "\r\nESC. Exit");
 
@@ -42,6 +43,7 @@ namespace VStest
                 switch (key.Key)
                 {
                     case ConsoleKey.D1:
+                        Console.Clear();
                         MakeItSnow();
                         break;
                     case ConsoleKey.D2:
