@@ -15,6 +15,7 @@ namespace VStest
             UI ui = new UI();
             ui.UserInterface();
             Console.WriteLine("Här har jag också ändrat.");
+            Console.WriteLine("En ny rad till att testa");
         }
     }
 }
