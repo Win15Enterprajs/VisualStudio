@@ -1,2 +1,6 @@
 Ändring som jag gör
+
 jag gillar inte din ändring
+
+Nu skrev jag något som jag skall ändra sen: Nu har jag ändrat.
+
