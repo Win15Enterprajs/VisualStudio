@@ -29,9 +29,9 @@ namespace VStest
                     {
                         if (j == array.GetLength(1) - 1)
                         {
-                            Console.Write("* \r\n");
+                            Console.Write("penis \r\n");
                         }
-                        Console.Write("* ");
+                        Console.Write("penis ");
                     }
                     else if (j == array.GetLength(1) - 1)
                     {
