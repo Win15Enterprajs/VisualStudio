@@ -1,8 +1,14 @@
+<<<<<<< 4988d6c36cac987e7a1d93b204460736a4bbd13f
 
+=======
+>>>>>>> Added ostbÃ¥ge to file.
 Bäst för dig att du läser denna din jävla fjant, annars e det fan riktigt illa för dig! :)
-
+Ostbåge.
 Ångrade mig, la till detta
+<<<<<<< 4988d6c36cac987e7a1d93b204460736a4bbd13f
 
+=======
+>>>>>>> Added ostbÃ¥ge to file.
 Ändring som jag gör
 
 jag gillar inte din ändring
@@ -10,7 +16,10 @@ jag gillar inte din ändring
 
 Nu skrev jag något som jag skall ändra sen: Nu har jag ändrat. ostbricka.
 
+<<<<<<< 4988d6c36cac987e7a1d93b204460736a4bbd13f
 
+=======
+>>>>>>> Added ostbÃ¥ge to file.
 
 
 fan vad najs!
@@ -29,4 +38,3 @@ fan vad najs!
 *************************************
 *************************************
 *************************************
->>>>>>> 18975b0f97954249c2fe65cc7ef68c94fe870759
