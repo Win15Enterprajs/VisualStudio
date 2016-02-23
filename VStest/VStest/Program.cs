@@ -17,9 +17,9 @@ namespace VStest
             Console.WriteLine("Här har jag också ändrat.");
 
 
-//////////////////////////////////////////////////////////////////////////////////////
-//OSTOSTOST///lalalala
-
+            //////////////////////////////////////////////////////////////////////////////////////
+            //OSTOSTOST///lalalala
+            Console.WriteLine("ROPPPIN!");
 
             ///Jackie boooooi!
             Console.WriteLine("Nu lade jag till någonting till.");
