@@ -25,5 +25,29 @@ namespace VStest
                 Console.Clear();
             } while (true);
         }
+
+        public void UserInterface()
+        {
+            do
+            {
+                Console.WriteLine("What do you want to do?");
+                Console.WriteLine("1. Make it snow." + "\r\n 2. Öxölklöfför" + "\r\n {placeholder}" + "\r\nESC. Exit");
+
+                ConsoleKeyInfo key = Console.ReadKey();
+                switch (key.Key)
+                {
+                    case ConsoleKey.D1:
+                        MakeItSnow();
+                        break;
+                    case ConsoleKey.D2:
+                        break;
+                    case ConsoleKey.Escape:
+                        return;
+                    default:
+                        Console.WriteLine("Make a choice.");
+                        break;
+                } 
+            } while (true);
+        }
     }
 }
