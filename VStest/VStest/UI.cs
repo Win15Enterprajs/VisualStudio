@@ -36,7 +36,7 @@ namespace VStest
             do
             {
                 Console.WriteLine("What do you want to do?");
-                Console.WriteLine("1. Make it snow." + "\r\n 2. Öxölklöfför" + "\r\n {placeholder}" + "\r\nESC. Exit");
+                Console.WriteLine("1. Make it snow." + "\r\n 2. Jan Stenmark Generator." + "\r\n {placeholder}" + "\r\nESC. Exit");
 
                 ConsoleKeyInfo key = Console.ReadKey();
                 switch (key.Key)
@@ -45,6 +45,7 @@ namespace VStest
                         MakeItSnow();
                         break;
                     case ConsoleKey.D2:
+                        JanStenmark();
                         break;
                     case ConsoleKey.Escape:
                         return;
